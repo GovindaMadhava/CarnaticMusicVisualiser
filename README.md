@@ -10,4 +10,3 @@ This project won the “Best Music Hack” award at the Audio Developer Conferen
 skills: Python, Fast Fourier Transform (FFTs), Indian Ethnomusicology
 
 ![Screenshot 2023-12-01 172026](https://github.com/GovindaMadhava/CarnaticMusicTranscriptor/assets/89211107/ca986241-e324-4c51-b9f9-ba51b58c9b99)
-<Screenshot from an output video>
